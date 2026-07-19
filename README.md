@@ -95,12 +95,6 @@ I'm a Computer Science graduate from the **University of Manila** with a passion
 
 ---
 
-# 🎯 Career Goal
-
-My goal is to become a highly skilled **.NET Software Engineer** specializing in enterprise web applications, cloud technologies, and scalable backend systems. I enjoy solving real-world problems through software and continuously improving my technical and professional skills.
-
----
-
 # 📫 Contact Me
 
 **Jerald R. Montemor**
@@ -110,18 +104,6 @@ My goal is to become a highly skilled **.NET Software Engineer** specializing in
 📧 montemorjeraldd@gmail.com
 
 📱 +63 930 695 605
-
----
-
-## GitHub Stats
-
-> *(GitHub automatically generates these once your repositories become active.)*
-
-```text
-⭐ Always learning.
-🚀 Always building.
-💡 Always improving.
-```
 
 ---
 
