@@ -152,8 +152,6 @@ philosophy: "Clean code. Scalable systems. Maintainable architecture."
 
 *If you like my projects or would like to collaborate, feel free to connect with me or reach out via email.*
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile+Views&color=6D28D9&style=for-the-badge" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:6D28D9,100:2E1065&height=120&section=footer" width="100%"/>
