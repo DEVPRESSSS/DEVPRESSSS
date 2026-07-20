@@ -11,10 +11,10 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://devpress-101-git-main-devpressss-projects.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1033" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/jerald-montemor-4b1989289/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1033" />
 </a>
 <a href="mailto:montemorjeraldd@gmail.com">
