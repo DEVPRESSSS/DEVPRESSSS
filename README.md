@@ -103,66 +103,6 @@ philosophy: "Clean code. Scalable systems. Maintainable architecture."
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,100:8B5CF6&height=3&width=100%"/>
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🧾 Point of Sale (POS) System</b> — ASP.NET Core MVC · C# · EF Core · SQL Server</summary>
-<br/>
-
-- Full-stack POS web application for sales and inventory management
-- ASP.NET Core Identity for Admin/Cashier role-based authentication & authorization
-- RESTful APIs built with the Repository pattern for maintainability and scalability
-
-`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Repository Pattern`
-
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce Ordering System</b> — ASP.NET Core MVC · C# · EF Core · SQL Server</summary>
-<br/>
-
-- End-to-end ordering and checkout experience for an e-commerce platform
-- PayMongo REST API integration for secure online payments
-- ASP.NET Core Identity with role-based authorization for customer/admin access
-- Deployed to a public hosting environment for real-world use and testing
-
-`C#` `ASP.NET Core MVC` `PayMongo API` `Entity Framework Core` `SQL Server`
-
-</details>
-
-<details>
-<summary><b>🏨 Hotel Management System</b> — ASP.NET Core Web API · React · EF Core · Clean Architecture</summary>
-<br/>
-
-- Full-stack hotel management platform built with Clean Architecture
-- JWT authentication with role-based access control (RBAC) for secure API endpoints
-- Admin dashboard covering room, reservation, and revenue management
-
-`C#` `ASP.NET Core Web API` `React` `Entity Framework Core` `Clean Architecture` `JWT`
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,100:8B5CF6&height=3&width=100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1065,100:8B5CF6&height=3&width=100%"/>
-
 ## 📖 Currently Learning
 
 <div align="center">
